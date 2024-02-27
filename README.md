@@ -12,8 +12,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Test taking tips for AWS Certification Exams](https://medium.com/@chirchir/test-taking-tips-for-aws-certification-exams-b0528f4fc2ee?source=rss-d7dfe78c8283------2)
 - [Create a Static Website with AWS S3 and Route 53](https://dev.to/oturpik/create-a-static-website-with-aws-s3-and-route-53-29p)
 - [Static Website Hosting with Amazon S3, CloudFront and CloudWatch metrics in 5 minutes or less](https://dev.to/oturpik/static-website-hosting-with-amazon-s3-cloudfront-and-cloudwatch-metrics-in-10-minutes-or-less-29mh)
+- [Guide to Migrating a Local MySQL Database to AWS with Terraform](https://medium.com/@chirchir/guide-to-migrating-a-local-mysql-database-to-aws-with-terraform-883a3bb1d598?source=rss-d7dfe78c8283------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
